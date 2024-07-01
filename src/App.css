@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.App {
+  text-align: center;
+}
+
+.centered-card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 75vh; 
+}
+
+.card {
+  width: 18rem;
+}
+
+.paginationClass{
+display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: auto;
+}
